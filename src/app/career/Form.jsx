@@ -24,7 +24,7 @@ const Form = () => {
       Swal.fire({
         title: 'Thank you for submitting. Our team will get in touch with you shortly. In the meantime, you can call or WhatsApp 8879949404',
         icon: 'success',
-        timer: 2000,
+        timer: 6000,
         timerProgressBar: true,
         showConfirmButton: false,
         allowOutsideClick: true,
