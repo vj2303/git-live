@@ -26,7 +26,7 @@ const Form = () => {
         title: 'Thank you for submitting Our team will get in touch with you shortly in the mean while you can call or whatsapp 8879949404',
         icon: 'success',
         html: '',
-        timer: 2000, // Close after 2 seconds (2000 milliseconds)
+        timer: 6000, // Close after 2 seconds (2000 milliseconds)
         timerProgressBar: true,
         showConfirmButton: false,
         allowOutsideClick: true,
